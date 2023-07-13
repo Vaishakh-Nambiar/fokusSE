@@ -88,36 +88,4 @@ NOTE: There is also an unofficially maintained docker image available at `regist
 
 <br>
 
-# Contributing
 
-Contributions in any form are encouraged and I would love to merge them back into the codebase. You can help me by:
-
--   :star: STAR this repository :star:
--   :bug: Raising issues or bugs
--   :thumbsup: Helping new users with issues they may encounter 
--   :bulb: Improving documentation or raising your suggestions
--   :arrow_heading_up: Submitting PR with bug fixes or new features
--   :speaking_head: Spreading the word and recommending it to your friends and family
-
-_If you're into react development and interested in contributing, feel free to raise a issue or PR or hit me up on my mail._
-
-<br>
-
-# License GNU GPLv3
-
-I chose this license to ensure this project stays open source and contributor enhancements are made available to the public.
-
-**GNU GPLv3**
-Permissions of this strong copyleft license are conditioned on making available complete source code of licensed works and modifications, which include larger works using a licensed work, under the same license. Copyright and license notices must be preserved. Contributors provide an express grant of patent rights.
-
-See `license` for complete license text.
-
-<br>
-
-<h2 align="center">
-  Open Source
-</h2>
-<p align="center">
-  <sub>Copyright © 2022 Pranav Gupta</sub>
-</p>
-<p align="center">Fokus Code <a href="https://github.com/pg07codes/fokus/blob/master/LICENSE.md">is GNU GPLv3 licensed 💖</a></p>
